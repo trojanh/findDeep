@@ -1,8 +1,8 @@
 {
-  "name": "find-deep",
+  "name": "finddeepjs",
   "version": "1.0.0",
   "description": "Easily find all values for a key in long deeply nested objects or arrays",
-  "main": "findDeep.js",
+  "main": "src/findDeep.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
