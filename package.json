@@ -1,6 +1,6 @@
 {
   "name": "finddeepjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily find all values for a key in long deeply nested objects or arrays",
   "main": "src/findDeep.js",
   "scripts": {

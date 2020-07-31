@@ -5,7 +5,7 @@ function findDeep(objectToSearch, searchKey) {
 
   // works for arrays and objects
   for (const iterator of Object.values(objectToSearch)) {
-    const result = deepFind(iterator, searchKey)
+    const result = findDeep(iterator, searchKey)
     if (result !== null) foundValues.push(...result)
   }
   return foundValues
