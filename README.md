@@ -5,13 +5,13 @@ Easily find all values for a key in long deeply nested objects or arrays
 ## install
 
 ```bash
-npm install find-deep
+npm install finddeepjs
 ```
 
 ## Examples
 
 ```js
-const findDeep = require('findDeep')
+const findDeep = require('finddeepjs')
 const nestedObject = [
   {
     id: '0001',
