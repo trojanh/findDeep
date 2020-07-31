@@ -1,17 +1,17 @@
-# deepFind
+# findDeep
 
 Easily find all values for a key in long deeply nested objects or arrays
 
 ## install
 
 ```bash
-npm install deepFind
+npm install find-deep
 ```
 
 ## Examples
 
 ```js
-const deepFind = require('deepFind')
+const findDeep = require('findDeep')
 const nestedObject = [
   {
     id: '0001',
@@ -72,7 +72,7 @@ const nestedObject = [
   }
 ]
 
-deepFind(nestedObject, 'batter')
+findDeep(nestedObject, 'batter')
 
 /* output
 [

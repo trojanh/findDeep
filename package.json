@@ -1,25 +1,28 @@
 {
-  "name": "deep-find",
+  "name": "find-deep",
   "version": "1.0.0",
   "description": "Easily find all values for a key in long deeply nested objects or arrays",
-  "main": "deepFind.js",
+  "main": "findDeep.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trojanh/deepFind.git"
+    "url": "git+https://github.com/trojanh/findDeep.git"
   },
   "keywords": [
     "find",
-    "deepFind",
+    "findDeep",
     "array",
     "javascript"
   ],
-  "author": "trojanh <rajan.tiwari@kiprosh.com>",
+  "author": "trojanh <tiwarirajan@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trojanh/deepFind/issues"
+    "url": "https://github.com/trojanh/findDeep/issues"
   },
-  "homepage": "https://github.com/trojanh/deepFind#readme"
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/trojanh/findDeep#readme"
 }

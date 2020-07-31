@@ -1,4 +1,4 @@
-function deepFind(objectToSearch, searchKey) {
+function findDeep(objectToSearch, searchKey) {
   if (typeof objectToSearch !== 'object') return null
   const foundValues = []
   if (objectToSearch[searchKey]) foundValues.push(objectToSearch[searchKey])
@@ -11,4 +11,4 @@ function deepFind(objectToSearch, searchKey) {
   return foundValues
 }
 
-module.exports = deepFind
+module.exports = findDeep
