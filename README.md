@@ -1,5 +1,5 @@
 # findDeep
-[![findDeep Actions Status](https://github.com/trojanh/findDeep/workflows/.github/workflows/npm-publish/badge.svg)](https://github.com/trojanh/findDeep/actions)
+![npm-publish](https://github.com/trojanh/findDeep/workflows/npm-publish/badge.svg)
 
 Easily find all values for a key in long deeply nested objects or arrays
 
