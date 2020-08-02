@@ -1,10 +1,11 @@
 {
   "name": "finddeepjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easily find all values for a key in long deeply nested objects or arrays",
   "main": "src/findDeep.js",
   "scripts": {
-    "test": "jest tests"
+    "test": "jest tests",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
