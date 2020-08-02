@@ -4,7 +4,7 @@
   "description": "Easily find all values for a key in long deeply nested objects or arrays",
   "main": "src/findDeep.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest tests"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/trojanh/findDeep#readme"
+  "homepage": "https://github.com/trojanh/findDeep#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
 }
