@@ -1,4 +1,5 @@
 # findDeep
+![tests](https://github.com/trojanh/findDeep/workflows/tests/badge.svg)
 
 Easily find all values for a key in long deeply nested objects or arrays
 

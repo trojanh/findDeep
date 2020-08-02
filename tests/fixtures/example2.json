@@ -1,0 +1,1033 @@
+[{
+    "_id": "5f2546210d9dec6369b2c8dc",
+    "index": 0,
+    "guid": "5f5d1f64-21cb-4ba2-a951-a0e64b6eedde",
+    "isActive": false,
+    "balance": "$3,216.82",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "green",
+    "name": {
+      "first": "Frost",
+      "last": "Mccray"
+    },
+    "company": "GEOFORM",
+    "email": "frost.mccray@geoform.tv",
+    "phone": "+1 (811) 426-3380",
+    "address": "699 Jerome Street, Suitland, Virginia, 5539",
+    "about": "Nulla amet nisi ea Lorem fugiat excepteur officia sit mollit ut cillum consectetur sit excepteur. Dolor nisi cillum duis enim exercitation exercitation ut ut aliquip laboris. Nisi culpa nulla nisi Lorem id ad mollit incididunt quis commodo.",
+    "registered": "Tuesday, April 3, 2018 12:51 AM",
+    "latitude": "0.360531",
+    "longitude": "27.994892",
+    "tags": [
+      "do",
+      "pariatur",
+      "duis",
+      "reprehenderit",
+      "ipsum"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Danielle Lyons"
+      },
+      {
+        "id": 1,
+        "name": "Jaclyn Roberson"
+      },
+      {
+        "id": 2,
+        "name": "Spence Lucas"
+      }
+    ],
+    "greeting": "Hello, Frost! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5f25462142a569d05963f9c5",
+    "index": 1,
+    "guid": "f5cfe02b-2cdc-4b79-8dd2-80327d259ae9",
+    "isActive": false,
+    "balance": "$1,770.18",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": {
+      "first": "Carter",
+      "last": "Donovan"
+    },
+    "company": "MEDICROIX",
+    "email": "carter.donovan@medicroix.name",
+    "phone": "+1 (947) 563-3103",
+    "address": "552 Maple Avenue, Sardis, Kansas, 4099",
+    "about": "Tempor nostrud velit esse cillum non ullamco ullamco ex ea ex. Ut proident mollit voluptate incididunt do aliquip quis velit sint do. Consequat voluptate id Lorem amet occaecat. Elit eu voluptate pariatur nulla ea eu cupidatat mollit laboris. Id in labore incididunt aliqua velit officia occaecat reprehenderit.",
+    "registered": "Monday, August 21, 2017 5:20 AM",
+    "latitude": "-30.590351",
+    "longitude": "69.117153",
+    "tags": [
+      "sint",
+      "ex",
+      "voluptate",
+      "tempor",
+      "irure"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Bryan Hunter"
+      },
+      {
+        "id": 1,
+        "name": "Keith Petersen"
+      },
+      {
+        "id": 2,
+        "name": "Finley Wade"
+      }
+    ],
+    "greeting": "Hello, Carter! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5f2546218c86e0596ba02000",
+    "index": 2,
+    "guid": "53cfb54f-81f6-469f-9570-b9589d6321f4",
+    "isActive": true,
+    "balance": "$1,201.77",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Burris",
+      "last": "Cain"
+    },
+    "company": "PEARLESEX",
+    "email": "burris.cain@pearlesex.info",
+    "phone": "+1 (918) 557-2816",
+    "address": "705 Harman Street, Abiquiu, Vermont, 9503",
+    "about": "Cupidatat consectetur consectetur qui ut magna do. Et Lorem mollit irure aliqua aliquip incididunt incididunt Lorem elit labore aliquip. Elit irure nostrud et consectetur. Fugiat aute minim proident fugiat incididunt Lorem ullamco culpa ipsum.",
+    "registered": "Friday, May 2, 2014 10:06 PM",
+    "latitude": "20.960495",
+    "longitude": "-169.548042",
+    "tags": [
+      "voluptate",
+      "pariatur",
+      "dolore",
+      "veniam",
+      "nisi"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Rodriquez Heath"
+      },
+      {
+        "id": 1,
+        "name": "Janelle Horn"
+      },
+      {
+        "id": 2,
+        "name": "Pickett Chambers"
+      }
+    ],
+    "greeting": "Hello, Burris! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5f254621af798871a1992223",
+    "index": 3,
+    "guid": "b80bc6f9-f584-4e3c-b564-0679d952cea3",
+    "isActive": true,
+    "balance": "$1,277.13",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": {
+      "first": "Galloway",
+      "last": "Dorsey"
+    },
+    "company": "BIOSPAN",
+    "email": "galloway.dorsey@biospan.co.uk",
+    "phone": "+1 (968) 472-3729",
+    "address": "604 Broadway , Gerber, Federated States Of Micronesia, 4867",
+    "about": "Qui consectetur amet deserunt occaecat deserunt nulla. Dolor ea ullamco commodo quis adipisicing quis esse. Ullamco ut aute aliquip enim ut laboris aliqua.",
+    "registered": "Thursday, August 10, 2017 8:49 AM",
+    "latitude": "-81.761616",
+    "longitude": "162.311649",
+    "tags": [
+      "non",
+      "incididunt",
+      "irure",
+      "cupidatat",
+      "commodo"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Harrison Winters"
+      },
+      {
+        "id": 1,
+        "name": "Clark Joyner"
+      },
+      {
+        "id": 2,
+        "name": "Lawanda Lawson"
+      }
+    ],
+    "greeting": "Hello, Galloway! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5f254621664b3c0c579b3282",
+    "index": 4,
+    "guid": "38678b6c-450d-44a6-a547-c5ec6c7d2c91",
+    "isActive": false,
+    "balance": "$1,709.07",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Pennington",
+      "last": "Wilkins"
+    },
+    "company": "BESTO",
+    "email": "pennington.wilkins@besto.io",
+    "phone": "+1 (888) 471-2317",
+    "address": "948 Oriental Boulevard, Rodanthe, South Dakota, 4384",
+    "about": "Est eu excepteur magna dolore minim. Pariatur eiusmod aliquip culpa laboris commodo velit ea ad dolor incididunt Lorem. Aliqua reprehenderit officia magna aliquip duis commodo. Culpa culpa id voluptate sit deserunt veniam enim officia labore dolor amet non pariatur magna. Officia ut non nulla velit velit duis sunt sunt anim duis do non elit aute. Cupidatat et officia ullamco ea irure ad ullamco ex.",
+    "registered": "Monday, March 17, 2014 7:14 PM",
+    "latitude": "-75.752097",
+    "longitude": "-87.402156",
+    "tags": [
+      "fugiat",
+      "qui",
+      "elit",
+      "laboris",
+      "aliqua"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Baker Berry"
+      },
+      {
+        "id": 1,
+        "name": "Lester Sellers"
+      },
+      {
+        "id": 2,
+        "name": "Sabrina Guzman"
+      }
+    ],
+    "greeting": "Hello, Pennington! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "0001",
+    "type": "donut",
+    "name": "Cake",
+    "ppu": 0.55,
+    "batters": {
+      "batter": [{
+          "id": "1001",
+          "type": "Regular"
+        },
+        {
+          "id": "1002",
+          "type": "Chocolate"
+        },
+        {
+          "id": "1003",
+          "type": "Blueberry"
+        },
+        {
+          "id": "1004",
+          "type": "Devil's Food"
+        }
+      ]
+    },
+    "topping": [{
+        "id": "5001",
+        "type": "None"
+      },
+      {
+        "id": "5002",
+        "type": "Glazed"
+      },
+      {
+        "id": "5005",
+        "type": "Sugar"
+      },
+      {
+        "id": "5007",
+        "type": "Powdered Sugar"
+      },
+      {
+        "id": "5006",
+        "type": "Chocolate with Sprinkles"
+      },
+      {
+        "id": "5003",
+        "type": "Chocolate"
+      },
+      {
+        "id": "5004",
+        "type": "Maple"
+      }
+    ]
+  },
+  {
+    "id": "0002",
+    "type": "donut",
+    "name": "Raised",
+    "ppu": 0.55,
+    "batters": {
+      "batter": [{
+        "id": "1001",
+        "type": "Regular"
+      }]
+    },
+    "topping": [{
+        "id": "5001",
+        "type": "None"
+      },
+      {
+        "id": "5002",
+        "type": "Glazed"
+      },
+      {
+        "id": "5005",
+        "type": "Sugar"
+      },
+      {
+        "id": "5003",
+        "type": "Chocolate"
+      },
+      {
+        "id": "5004",
+        "type": "Maple"
+      }
+    ]
+  },
+  {
+    "id": "0003",
+    "type": "donut",
+    "name": "Old Fashioned",
+    "ppu": 0.55,
+    "batters": {
+      "batter": [{
+          "id": "1001",
+          "type": "Regular"
+        },
+        {
+          "id": "1002",
+          "type": "Chocolate"
+        }
+      ]
+    },
+    "topping": [{
+        "id": "5001",
+        "type": "None"
+      },
+      {
+        "id": "5002",
+        "type": "Glazed"
+      },
+      {
+        "id": "5003",
+        "type": "Chocolate"
+      },
+      {
+        "id": "5004",
+        "type": "Maple"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "method": "Inspector.enable"
+  },
+  {
+    "id": 2,
+    "method": "CSS.getSupportedCSSProperties"
+  },
+  {
+    "id": 3,
+    "method": "CSS.getSupportedSystemFontFamilyNames"
+  },
+  {
+    "id": 4,
+    "method": "Page.enable"
+  },
+  {
+    "id": 5,
+    "method": "Page.getResourceTree"
+  },
+  {
+    "id": 6,
+    "method": "Network.enable"
+  },
+  {
+    "id": 7,
+    "method": "DOMStorage.enable"
+  },
+  {
+    "id": 8,
+    "method": "Database.enable"
+  },
+  {
+    "id": 9,
+    "method": "IndexedDB.enable"
+  },
+  {
+    "id": 10,
+    "method": "CSS.enable"
+  },
+  {
+    "id": 11,
+    "method": "Console.getLoggingChannels"
+  },
+  {
+    "id": 12,
+    "method": "Runtime.enable"
+  },
+  {
+    "id": 13,
+    "method": "Heap.enable"
+  },
+  {
+    "id": 14,
+    "method": "Memory.enable"
+  },
+  {
+    "id": 15,
+    "method": "ApplicationCache.enable"
+  },
+  {
+    "id": 16,
+    "method": "ApplicationCache.getFramesWithManifests"
+  },
+  {
+    "id": 17,
+    "method": "Timeline.setInstruments",
+    "params": {
+      "instruments": [
+        "Timeline",
+        "ScriptProfiler"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "method": "Debugger.enable"
+  },
+  {
+    "id": 19,
+    "method": "Debugger.setBreakpointsActive",
+    "params": {
+      "active": false
+    }
+  },
+  {
+    "id": 20,
+    "method": "Debugger.setPauseOnExceptions",
+    "params": {
+      "state": "none"
+    }
+  },
+  {
+    "id": 21,
+    "method": "Debugger.setPauseOnAssertions",
+    "params": {
+      "enabled": false
+    }
+  },
+  {
+    "id": 22,
+    "method": "Debugger.setAsyncStackTraceDepth",
+    "params": {
+      "depth": 200
+    }
+  },
+  {
+    "id": 23,
+    "method": "Debugger.setPauseForInternalScripts",
+    "params": {
+      "shouldPause": false
+    }
+  },
+  {
+    "id": 24,
+    "method": "LayerTree.enable"
+  },
+  {
+    "id": 25,
+    "method": "Worker.enable"
+  },
+  {
+    "id": 26,
+    "method": "Canvas.enable"
+  },
+  {
+    "id": 27,
+    "method": "Console.enable"
+  },
+  {
+    "id": 28,
+    "method": "Runtime.enableTypeProfiler"
+  },
+  {
+    "id": 29,
+    "method": "Runtime.enableControlFlowProfiler"
+  },
+  {
+    "id": 30,
+    "method": "Timeline.setAutoCaptureEnabled",
+    "params": {
+      "enabled": true
+    }
+  },
+  {
+    "id": 31,
+    "method": "Debugger.setBreakpointByUrl",
+    "params": {
+      "lineNumber": 11,
+      "url": "file:///Volumes/Data/test.js",
+      "columnNumber": 0,
+      "options": {
+        "condition": "",
+        "ignoreCount": 0,
+        "actions": [],
+        "autoContinue": false
+      }
+    }
+  },
+  {
+    "id": 32,
+    "method": "Debugger.setBreakpointByUrl",
+    "params": {
+      "lineNumber": 6572,
+      "url": "http://localhost:8000/WSL/Test.js",
+      "columnNumber": 0,
+      "options": {
+        "condition": "",
+        "ignoreCount": 0,
+        "actions": [],
+        "autoContinue": false
+      }
+    }
+  },
+  {
+    "id": 33,
+    "method": "Inspector.initialized"
+  },
+  {
+    "result": {},
+    "id": 1
+  },
+  {
+    "result": {
+      "cssProperties": [{
+          "name": "color"
+        },
+        {
+          "name": "direction"
+        },
+        {
+          "name": "display"
+        },
+        {
+          "name": "font-family"
+        },
+        {
+          "name": "font-feature-settings"
+        },
+        {
+          "name": "font-optical-sizing"
+        },
+        {
+          "name": "font-size"
+        },
+        {
+          "name": "font-stretch"
+        },
+        {
+          "name": "font-style"
+        },
+        {
+          "name": "font-synthesis"
+        },
+        {
+          "name": "font-variant-alternates"
+        },
+        {
+          "name": "font-variant-caps"
+        },
+        {
+          "name": "font-variant-east-asian"
+        },
+        {
+          "name": "font-variant-ligatures"
+        },
+        {
+          "name": "font-variant-numeric"
+        },
+        {
+          "name": "font-variant-position"
+        },
+        {
+          "name": "font-variation-settings"
+        },
+        {
+          "name": "font-weight"
+        },
+        {
+          "name": "text-rendering"
+        },
+        {
+          "name": "writing-mode"
+        },
+        {
+          "name": "zoom"
+        },
+        {
+          "name": "-webkit-font-kerning"
+        },
+        {
+          "name": "-webkit-font-smoothing"
+        },
+        {
+          "name": "-webkit-locale"
+        },
+        {
+          "name": "-webkit-text-orientation"
+        },
+        {
+          "name": "-webkit-text-size-adjust"
+        },
+        {
+          "name": "-webkit-text-zoom"
+        },
+        {
+          "name": "align-content"
+        },
+        {
+          "name": "align-items"
+        },
+        {
+          "functionName": "",
+          "url": "https://browserbench.org/Speedometer2.0/InteractiveRunner.html",
+          "scriptId": "5",
+          "lineNumber": 163,
+          "columnNumber": 41
+        }
+      ],
+      "data": {},
+      "frameId": "0.3",
+      "type": "ScheduleStyleRecalculation"
+    },
+    "startTime": 19.408642636000877,
+    "stackTrace": [{
+      "functionName": "insertBefore",
+      "url": "[native code]",
+      "scriptId": "0",
+      "lineNumber": 0,
+      "columnNumber": 0
+    }, {
+      "functionName": "_appendFrame",
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "scriptId": "7",
+      "lineNumber": 89,
+      "columnNumber": 31
+    }, {
+      "functionName": "step",
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "scriptId": "7",
+      "lineNumber": 211,
+      "columnNumber": 65
+    }, {
+      "functionName": "runAllSteps",
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "scriptId": "7",
+      "lineNumber": 222,
+      "columnNumber": 14
+    }, {
+      "functionName": "",
+      "url": "https://browserbench.org/Speedometer2.0/InteractiveRunner.html",
+      "scriptId": "5",
+      "lineNumber": 163,
+      "columnNumber": 41
+    }],
+    "frameId": "0.3",
+    "data": {},
+    "children": [{
+      "startTime": 19.408707324997522,
+      "stackTrace": [{
+        "functionName": "insertBefore",
+        "url": "[native code]",
+        "scriptId": "0",
+        "lineNumber": 0,
+        "columnNumber": 0
+      }, {
+        "functionName": "_appendFrame",
+        "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+        "scriptId": "7",
+        "lineNumber": 89,
+        "columnNumber": 31
+      }, {
+        "functionName": "step",
+        "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+        "scriptId": "7",
+        "lineNumber": 211,
+        "columnNumber": 65
+      }, {
+        "functionName": "runAllSteps",
+        "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+        "scriptId": "7",
+        "lineNumber": 222,
+        "columnNumber": 14
+      }, {
+        "functionName": "",
+        "url": "https://browserbench.org/Speedometer2.0/InteractiveRunner.html",
+        "scriptId": "5",
+        "lineNumber": 163,
+        "columnNumber": 41
+      }],
+      "data": {},
+      "frameId": "0.3",
+      "type": "InvalidateLayout"
+    }, {
+      "startTime": 19.408726644003764,
+      "stackTrace": [{
+        "functionName": "insertBefore",
+        "url": "[native code]",
+        "scriptId": "0",
+        "lineNumber": 0,
+        "columnNumber": 0
+      }, {
+        "functionName": "_appendFrame",
+        "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+        "scriptId": "7",
+        "lineNumber": 89,
+        "columnNumber": 31
+      }, {
+        "functionName": "step",
+        "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+        "scriptId": "7",
+        "lineNumber": 211,
+        "columnNumber": 65
+      }, {
+        "functionName": "runAllSteps",
+        "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+        "scriptId": "7",
+        "lineNumber": 222,
+        "columnNumber": 14
+      }]
+    }]
+  },
+  {
+    "timestamp": 27.134194182988722,
+    "stackFrames": [{
+      "sourceID": "-1",
+      "name": "removeChild",
+      "line": -1,
+      "column": -1,
+      "url": ""
+    }, {
+      "sourceID": "7",
+      "name": "_removeFrame",
+      "line": 61,
+      "column": 51,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 63,
+        "column": 43
+      }
+    }, {
+      "sourceID": "7",
+      "name": "_finalize",
+      "line": 273,
+      "column": 48,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 274,
+        "column": 22
+      }
+    }, {
+      "sourceID": "7",
+      "name": "step",
+      "line": 194,
+      "column": 43,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 202,
+        "column": 23
+      }
+    }, {
+      "sourceID": "7",
+      "name": "runAllSteps",
+      "line": 220,
+      "column": 50,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 222,
+        "column": 14
+      }
+    }, {
+      "sourceID": "-1",
+      "name": "bound ",
+      "line": -1,
+      "column": -1,
+      "url": ""
+    }, {
+      "sourceID": "7",
+      "name": "",
+      "line": 222,
+      "column": 44,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 224,
+        "column": 23
+      }
+    }, {
+      "sourceID": "7",
+      "name": "resolve",
+      "line": 20,
+      "column": 44,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 27,
+        "column": 32
+      }
+    }, {
+      "sourceID": "7",
+      "name": "",
+      "line": 256,
+      "column": 71,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 267,
+        "column": 28
+      }
+    }, {
+      "sourceID": "7",
+      "name": "",
+      "line": 138,
+      "column": 25,
+      "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+      "expressionLocation": {
+        "line": 145,
+        "column": 17
+      }
+    }]
+  },
+  {
+    "web-app": {
+      "servlet": [{
+          "servlet-name": "cofaxCDS",
+          "servlet-class": "org.cofax.cds.CDSServlet",
+          "init-param": {
+            "configGlossary:installationAt": "Philadelphia, PA",
+            "configGlossary:adminEmail": "ksm@pobox.com",
+            "configGlossary:poweredBy": "Cofax",
+            "configGlossary:poweredByIcon": "/images/cofax.gif",
+            "configGlossary:staticPath": "/content/static",
+            "templateProcessorClass": "org.cofax.WysiwygTemplate",
+            "templateLoaderClass": "org.cofax.FilesTemplateLoader",
+            "templatePath": "templates",
+            "templateOverridePath": "",
+            "defaultListTemplate": "listTemplate.htm",
+            "defaultFileTemplate": "articleTemplate.htm",
+            "useJSP": false,
+            "jspListTemplate": "listTemplate.jsp",
+            "jspFileTemplate": "articleTemplate.jsp",
+            "cachePackageTagsTrack": 200,
+            "cachePackageTagsStore": 200,
+            "cachePackageTagsRefresh": 60,
+            "cacheTemplatesTrack": 100,
+            "cacheTemplatesStore": 50,
+            "cacheTemplatesRefresh": 15,
+            "cachePagesTrack": 200,
+            "cachePagesStore": 100,
+            "cachePagesRefresh": 10,
+            "cachePagesDirtyRead": 10,
+            "searchEngineListTemplate": "forSearchEnginesList.htm",
+            "searchEngineFileTemplate": "forSearchEngines.htm",
+            "searchEngineRobotsDb": "WEB-INF/robots.db",
+            "useDataStore": true,
+            "dataStoreClass": "org.cofax.SqlDataStore",
+            "redirectionClass": "org.cofax.SqlRedirection",
+            "dataStoreName": "cofax",
+            "dataStoreDriver": "com.microsoft.jdbc.sqlserver.SQLServerDriver",
+            "dataStoreUrl": "jdbc:microsoft:sqlserver://LOCALHOST:1433;DatabaseName=goon",
+            "dataStoreUser": "sa",
+            "dataStorePassword": "dataStoreTestQuery",
+            "dataStoreTestQuery": "SET NOCOUNT ON;select test='test';",
+            "dataStoreLogFile": "/usr/local/tomcat/logs/datastore.log",
+            "dataStoreInitConns": 10,
+            "dataStoreMaxConns": 100,
+            "dataStoreConnUsageLimit": 100,
+            "dataStoreLogLevel": "debug",
+            "maxUrlLength": 500
+          }
+        },
+        {
+          "servlet-name": "cofaxEmail",
+          "servlet-class": "org.cofax.cds.EmailServlet",
+          "init-param": {
+            "mailHost": "mail1",
+            "mailHostOverride": "mail2"
+          }
+        },
+        {
+          "servlet-name": "cofaxAdmin",
+          "servlet-class": "org.cofax.cds.AdminServlet"
+        },
+
+        {
+          "servlet-name": "fileServlet",
+          "servlet-class": "org.cofax.cds.FileServlet"
+        },
+        {
+          "servlet-name": "cofaxTools",
+          "servlet-class": "org.cofax.cms.CofaxToolsServlet",
+          "init-param": {
+            "templatePath": "toolstemplates/",
+            "log": 1,
+            "logLocation": "/usr/local/tomcat/logs/CofaxTools.log",
+            "logMaxSize": "",
+            "dataLog": 1,
+            "dataLogLocation": "/usr/local/tomcat/logs/dataLog.log",
+            "dataLogMaxSize": "",
+            "removePageCache": "/content/admin/remove?cache=pages&id=",
+            "removeTemplateCache": "/content/admin/remove?cache=templates&id=",
+            "fileTransferFolder": "/usr/local/tomcat/webapps/content/fileTransferFolder",
+            "lookInContext": 1,
+            "adminGroupID": 4,
+            "betaServer": {
+              "sourceID": "7",
+              "name": "",
+              "line": 138,
+              "column": 25,
+              "url": "https://browserbench.org/Speedometer2.0/resources/benchmark-runner.js",
+              "expressionLocation": {
+                "line": 145,
+                "column": 17,
+                "servlet-mapping": {
+                  "cofaxCDS": "/",
+                  "cofaxEmail": "/cofaxutil/aemail/*",
+                  "cofaxAdmin": "/admin/*",
+                  "fileServlet": "/static/*",
+                  "cofaxTools": "/tools/*",
+                  "taglib": {
+                    "taglib-uri": "cofax.tld",
+                    "taglib-location": "/WEB-INF/tlds/cofax.tld",
+                    "init-param": {
+                      "mailHost": "mail1",
+                      "mailHostOverride": "mail2",
+                      "test": {
+                        "id": 31,
+                        "method": "Debugger.setBreakpointByUrl",
+                        "params": {
+                          "lineNumber": 11,
+                          "url": "file:///Volumes/Data/test.js",
+                          "columnNumber": 0,
+                          "options": {
+                            "condition": "",
+                            "ignoreCount": 0,
+                            "actions": [],
+                            "taglibAutoContinue": {
+                              "taglibAutoContinueBatters": {
+                                "batter": [{
+                                    "id": "1001",
+                                    "type": "Regular"
+                                  },
+                                  {
+                                    "taglibAutoContinueId": "1002",
+                                    "type": "Chocolate"
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "servlet-mapping": {
+        "cofaxCDS": "/",
+        "cofaxEmail": "/cofaxutil/aemail/*",
+        "cofaxAdmin": "/admin/*",
+        "fileServlet": "/static/*",
+        "cofaxTools": "/tools/*"
+      },
+
+      "taglib": {
+        "taglib-uri": "cofax.tld",
+        "taglib-location": "/WEB-INF/tlds/cofax.tld"
+      }
+    }
+  }
+]
