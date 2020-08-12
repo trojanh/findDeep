@@ -105,8 +105,52 @@ test('find searchKey in large json array with deep searchKey', () => {
   expect(result1).toStrictEqual(['1002'])
 })
 
-
 test('find searchKey in extremely large(1.5MB) json array with deep searchKey', () => {
   const result = findDeep(exampleJson4, 'displayName')
   expect(result.length).toStrictEqual(238)
+})
+
+test('find array of nested searchKeys(2 level) in json array(return object)', () => {
+  const result = findDeep(exampleJson2, ['options', 'batter'], { nested: true })
+  expect(result).toStrictEqual([
+    [
+      { id: '1001', type: 'Regular' },
+      { taglibAutoContinueId: '1002', type: 'Chocolate' }
+    ]
+  ])
+})
+
+
+test('find array of searchKeys(3 level) in json array(returns array)', () => {
+  const result = findDeep(exampleJson2, ['batters', 'batter', 'type'], { nested: true })
+  expect(result).toStrictEqual([
+    'Regular',
+    'Chocolate',
+    'Blueberry',
+    "Devil's Food",
+    'Regular',
+    'Regular',
+    'Chocolate'
+  ])
+})
+
+test('find multiple searchKeys in json array(returns array)', () => {
+  const result = findDeep(exampleJson2, ['first', 'last'])
+  expect(result).toStrictEqual([
+    'Frost', 'Mccray',
+    'Carter', 'Donovan',
+    'Burris', 'Cain',
+    'Galloway', 'Dorsey',
+    'Pennington', 'Wilkins'
+  ])
+})
+
+test('find multiple searchKeys in json array(returns array)', () => {
+  const result = findDeep(exampleJson3, ['name', 'ppu'])
+  expect(result).toStrictEqual([ 'Cake', 0.55, 'Raised', 0.55, 'Old Fashioned', 0.55 ])
+})
+
+test('find by object searchKey in json array(throws error)', () => {
+  const findDeepError = () => findDeep(exampleJson3, { name: 'Cake'})
+  expect(findDeepError).toThrowError(new Error('Invalid searchKey'))
 })

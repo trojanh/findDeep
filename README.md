@@ -90,4 +90,29 @@ findDeep(nestedObject, 'batter')
   ]
 ]
 */
+
+
+// multi key search
+findDeep(nestedObject, ['name', 'ppu'])
+/* output
+[ 'Cake', 0.55, 'Raised', 0.55, 'Old Fashioned', 0.55 ]
+*/
+
+// nested key search
+
+findDeep(nestedObject, ['batters', 'batter', 'type'], { nested: true })
+/*
+[
+  'Regular',
+  'Chocolate',
+  'Blueberry',
+  "Devil's Food",
+  'Regular',
+  'Regular',
+  'Chocolate'
+]
+*/
+
+
+
 ```
