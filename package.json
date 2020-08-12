@@ -1,6 +1,6 @@
 {
   "name": "finddeepjs",
-  "version": "1.0.3",
+  "version": "1.2.1",
   "description": "Easily find all values for a key in long deeply nested objects or arrays",
   "main": "src/findDeep.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/trojanh/findDeep.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
   },
   "keywords": [
     "find",
@@ -24,9 +25,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/trojanh/findDeep/issues"
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "homepage": "https://github.com/trojanh/findDeep#readme",
   "devDependencies": {
